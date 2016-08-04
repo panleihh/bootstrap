@@ -1,0 +1,21 @@
+.home{
+    height: 600px;
+    color: #ffffff;
+    background:url("../img/2.png") no-repeat;
+    background-size: 100% 100%;
+}
+.page-header{
+    font-size: 30px;
+}
+.about{
+    padding-top: 12%;
+}
+.more{
+    padding-top: 10%;
+    height:  760px;
+    text-align: center;
+}
+.contact{
+    padding-top: 10%;
+    height: 500px;
+}
